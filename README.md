@@ -1,2 +1,2 @@
 # Arduino-LCD-Code
-Various code for LCD projects 
+Display and center user input onto LCD screen.
